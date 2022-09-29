@@ -1,7 +1,13 @@
 ### Methods
   As a team we used a few different methods to assess the current market competitors strengths and weaknesses. This process helped find what SleepWell can do to provide a better product as well as who the target market is by using the following methods: 
-**Competitive Analysis** – is exactly what it sounds like. We looked at a couple different competitors, Youtube and Tingles, to evaluate their strengths and weaknesses, price point, and what platform they release on. Through this analysis the team gained insights on potential holes in the market and issues SleepWell can address in a more user friendly fashion. 
-**Personas and Scenarios** – Is an exercise which helped the usability team get into the mindset of users different from ourselves. We wrote out brief biographies for fictional users to allow for easier consideration of how a user might interact with the app. These personas highlight the variety of user mindsets and the different scenarios in which the app will be used.  
-**Heuristic Evaluation** – While keeping in mind what our user’s goals are we assessed our largest competitor, Youtube. We determined a rating on ten different categories while keeping in mind our product's goal: provide a curated relaxing video feed to allow users to easily fall asleep. The ten categories include visibility or system status, match between system and real world, user control and freedom, consistency and standard, error prevention, recognition rather than recall, flexibility and efficiency of use, aesthetic and minimalist design, help users recognize, diagnose, and recover from errors, and finally help and documentation. 
+  
+**Competitive Analysis** 
+: is exactly what it sounds like. We looked at a couple different competitors, Youtube and Tingles, to evaluate their strengths and weaknesses, price point, and what platform they release on. Through this analysis the team gained insights on potential holes in the market and issues SleepWell can address in a more user friendly fashion. 
+
+**Personas and Scenarios** 
+: Is an exercise which helped the usability team get into the mindset of users different from ourselves. We wrote out brief biographies for fictional users to allow for easier consideration of how a user might interact with the app. These personas highlight the variety of user mindsets and the different scenarios in which the app will be used.  
+
+**Heuristic Evaluation** 
+: While keeping in mind what our user’s goals are we assessed our largest competitor, Youtube. We determined a rating on ten different categories while keeping in mind our product's goal: provide a curated relaxing video feed to allow users to easily fall asleep. The ten categories include visibility or system status, match between system and real world, user control and freedom, consistency and standard, error prevention, recognition rather than recall, flexibility and efficiency of use, aesthetic and minimalist design, help users recognize, diagnose, and recover from errors, and finally help and documentation. 
 
 
