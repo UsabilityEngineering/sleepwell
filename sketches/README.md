@@ -5,6 +5,7 @@
 
 <img src="sketch-1.jpg" alt="sketch_1" width="400"/> 
 
+In this I went for two different designs to test out what they would look like to to eye intially. We found that having a tags page was the way to go, but in Derek's I believe he captured a better looking one. Have the search bar at the bottom I felt was important, after it had been brought up that for mobile users, its the most convenient spot.
 
 **Derek Bergman's Sketch**
 
