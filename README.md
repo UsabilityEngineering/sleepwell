@@ -4,8 +4,8 @@ SleepWell is an app intended to provide users with curated relaxing videos to he
 
 ## UX Team Members
 
-* **[Derek Bergman](https://usabilityengineering.github.io/ux-portfolio-dbergman99/)** - !!!List of Person A's primary contributions!!!
-* **[Caleb Besser](https://usabilityengineering.github.io/ux-portfolio-xenithkain/)** - !!!List of Person B's primary contributions!!!
+* **[Derek Bergman](https://usabilityengineering.github.io/ux-portfolio-dbergman99/)** - Personas/Scenarios, Methods, Conclusion, Overall Formatting
+* **[Caleb Besser](https://usabilityengineering.github.io/ux-portfolio-xenithkain/)** - Sketches/Diagrams, Intro, Findings, Caveats, Overall Formatting
 
 # User-Centered Design Artifacts
  
