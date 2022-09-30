@@ -18,6 +18,7 @@ SleepWell is an app intended to provide users with curated relaxing videos to he
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
 **Executive Summary**
+
 Sleep Well as an app is being designed to currate relaxing videos for users that wish to listen/watch them. In this first sprint we accomplished:
 - **A Competative Analysis**
   - In this we found our main competitor to be Youtube, this finding lead to our furthur findings in the Heuristic evaluation.
