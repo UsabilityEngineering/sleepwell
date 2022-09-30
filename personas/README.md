@@ -1,11 +1,12 @@
 # Personas
 
 **Chris** 
+
 26 year old Male, Lives in San Francisco CA
 Manager of IT department 
 Chris is a hard worker that takes his job very seriously, he works for upwards of 10 hours a day 6 days a week, and comes home exhausted. He has a wife, and 2 kids. So when he gets home he must help with the kids, and spend time with his wife. By the time he gets to bed, he is exhausted. 
 
-![Chris](chris.png)
+![Chris](chris.png =58x79)
 
 Chris is an avid ASMR listener as he has trouble sleeping, usually finding his brain running at full speed even though his brain doesn’t agree. He tends to move through relaxation apps continuously saying, “They never really fill the exact role I need, so I only keep them for around a day or two.” Due to his poor sleeping, he tends to toss and turn at night, disturbing his wifes sleep.
 Chris’s Goals:
