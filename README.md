@@ -9,7 +9,6 @@ SleepWell is an app intended to provide users with curated relaxing videos to he
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](#) - Coming soon (phase II)!
@@ -20,18 +19,19 @@ SleepWell is an app intended to provide users with curated relaxing videos to he
 **Executive Summary**
 
 Sleep Well as an app is being designed to currate relaxing videos for users that wish to listen/watch them. In this first sprint we accomplished:
+
 - **A Competative Analysis**
   - In this we found our main competitor to be Youtube, this finding lead to our furthur findings in the Heuristic evaluation.
   - We also found that one main thing we could have over them is a more narrowed in list of videos to fulfill the users needs.
 - **A Heuristic Evaluation**
   - In this we found that Youtube was most likely going to be overtaken by our app, but that it had certain flaws such as position of the seach bar that we could do better in our app.
 - **Personas and Scenarios**
-  - These were used to find what our users want and how they would most likely achieve those goals using our app.
+  - These **highlight what our users want** and how they would most likely achieve those goals using our app.
   - We also found during this that relaxation would probably be our main focus.
 - **Sketches**
-  - Lastly our sketches provided ideas on how to put the app together, where things belonged and why they belong there. We found that a tags page would be the best solution, allowing the user to choose their tags for videos to search.
+  - Lastly our sketches provided ideas on how to put the app together, where things belonged and why they belong there. We found that a **tags page** would be the best solution, allowing the user to choose their tags for videos to search.
 
-Overall this first sprint gave us good direction on where to go with the app for the next ones, we got a good analysis on what the users want and need, though furthur testing with actuall users will be neccessary.
+Overall this first sprint gave us good direction on where to go with the app for the next ones, we got a good analysis on what the users want and need, though furthur testing with actual users will be neccessary.
 
 [Full phase I report](phaseI/)
 
