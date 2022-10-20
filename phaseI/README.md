@@ -21,9 +21,13 @@ Hello we are Caleb Besser and Derek Bergman, members of the SleepWell usability 
 ### Findings 
 
 To start, our findings from the *Competitive Analysis* were that our main competitors are Youtube, and an app called “Tingles” app. Even at this early stage, we started to find that trying to compete with a power house like youtube probably was not our best bet. Some additional findings from this were that we did have some things we could add to our app that youtube and Tingles app didn’t quite satisfy. One was curated content, with a tag driven system.  Both youtube and the Tingles app are both very creator heavy, they focus on the creator more than the tags themselves. 
+	
 	In the demographics part of this analysis, we found that our main audience would most likely be those that want to relax. Whether that be for studying, sleeping, or any other reason.
+	
 	Moving on to our *User Stories*, we found that there were a select kinds of users that would come to our app. While the variety of people could be large, the reasons they came to our app, and the things they wanted were very similar. However it did bring insights to the design of the app. For example, needing to allow users to close the app while listening, so that audio only listeners can stop their phone light from ruining their relaxation.
+	
 	Next was our *Personas and Scenarios*, in which we found that a lot of the time the people and scenarios we came up with were people who had a hard time relaxing. This followed from our demographic analysis and User Stories, and also allowed us to refine what it is that the app should be trying to accomplish. At this stage we started to narrow down what we were going to do.
+	
 	Our *Heuristic Evaluation* on youtube was beneficial, as it allowed us to deep dive into the more intricate aspects of what made our main competitor, our main competitor. This brought us a more in scope view of how our app should actually function. Which leads well into our next method.
 Lastly for this sprint, our findings from our sketches followed from our previous methods closely. Specifically, we found that allowing the user to enter a specific “tags” page in order to allow them to sort videos that way, was probably the best bet. Though we have not come to a complete conclusion on what sketch was best, it brought us very close.
 
@@ -34,5 +38,6 @@ SleepWell shouldn’t attempt to be better than Youtube, but instead capitalize 
 ### Caveats
 	
 The main caveat we would like to state is the fact that in this first sprint we did not get input from any actual users of the product. This is due to not having a product to test fully, and the methods we used, Personas and Scenarios in particular. As these are methods that have us in the UX team imagine users ourselves.
+	
 	At this point in the project, that seems to be the only caveat, as we don’t have much else to work off of. One main caveat is to remember that we are not reinventing youtube with our app, youtube being our main competitor.
 	
