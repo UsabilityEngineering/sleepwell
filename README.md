@@ -39,10 +39,13 @@ Overall this first sprint gave us good direction on where to go with the app for
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+In this phase our main analysis tools were Wireframes and Cognitive Walkthroughs. Both of which provided good feedback and information on what needs to be added or changed about the project.
+
+- The Wireframes brought us to a focal point in the project, were how the project would actually function came to fruition. They showed us that further thought was needed into the smaller elements of the project, such as the difference between a video watcher, and video creator when using the app.
+
+- The Cognitive Walkthroughs provided by fellow classmates informed us on a glaring issue that our Personas and Scenarios had, in which more variety in their goals was needed. As most of the feedback was similar.
+
+- Last, we found during our Wireframes that the direction the project was headed was not sustainable, as such, a need to change to a system where we create the content to begin with was had. Later down the line we can focus on having creators for the platform.
 
 [Full phase II report](phaseII/)
 
