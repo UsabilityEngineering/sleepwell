@@ -124,4 +124,24 @@
 </p>
 
 **Content Creators**
-- For content creators, you have an upload video screen. __**WIP**__
+- For content creators, you have a screen where you can choose a video to upload, and to change its title, description, etc. You can also save your settings you make as a draft, to use for an upload later.
+<p align="center">
+    <img 
+    src="Upload Video Screen.png" 
+    alt="Upload 1" 
+    style="width:200px;height:400px;"
+    hspace="50"
+    />     
+  <img 
+    src="Upload Video Screen 2.png" 
+    alt="Upload 2" 
+    style="width:200px;height:400px;"
+    hspace="50"
+  />
+  <img 
+    src="Home Screen – 1.png" 
+    alt="Drafts" 
+    style="width:200px;height:400px;"
+    hspace="50"
+  />
+</p>
