@@ -42,7 +42,7 @@ Overall this first sprint gave us good direction on where to go with the app for
 In this phase we created Wireframes, to map out the functionality of  SleepWell, and had external evaluators analyze the wireframes through Cognitive Walkthroughs. These provided a more clear idea of the strengths and weaknesses in our wireframes. 
 
 - The Cognitive Walkthroughs provided by external evaluators revealed an issue that our Personas and Scenarios had, in which more variety in their goals are needed. 
- - Such as a content creator uploading a video
+  - Such as a content creator uploading a video
 
 - Last, we found that using videos from Youtube was not sustainable. Consequently, Sleepwell will allow user created content.
 
