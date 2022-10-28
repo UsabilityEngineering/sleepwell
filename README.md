@@ -39,13 +39,12 @@ Overall this first sprint gave us good direction on where to go with the app for
 
 **Executive Summary**
 
-In this phase our main analysis tools were Wireframes and Cognitive Walkthroughs. Both of which provided good feedback and information on what needs to be added or changed about the project.
+In this phase we created Wireframes, to map out the functionality of  SleepWell, and had external evaluators analyze the wireframes through Cognitive Walkthroughs. These provided a more clear idea of the strengths and weaknesses in our wireframes. 
 
-- The Wireframes brought us to a focal point in the project, were how the project would actually function came to fruition. They showed us that further thought was needed into the smaller elements of the project, such as the difference between a video watcher, and video creator when using the app.
+- The Cognitive Walkthroughs provided by external evaluators revealed an issue that our Personas and Scenarios had, in which more variety in their goals are needed. 
+Such as a content creator uploading a video
 
-- The Cognitive Walkthroughs provided by fellow classmates informed us on a glaring issue that our Personas and Scenarios had, in which more variety in their goals was needed. As most of the feedback was similar.
-
-- Last, we found during our Wireframes that the direction the project was headed was not sustainable, as such, a need to change to a system where we create the content to begin with was had. Later down the line we can focus on having creators for the platform.
+- Last, we found that using videos from Youtube was not sustainable. Consequently, Sleepwell will allow user created content.
 
 [Full phase II report](phaseII/)
 
