@@ -52,9 +52,9 @@ In this phase we created Wireframes, to map out the functionality of  SleepWell,
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+This phase was mainly focused on our User Tests. Our test had participants run through 3 tasks that assessed how they completed each one. We found that there was some confusion in using the tags page, and that most people tried using the search ability, even though it was not implemented into the actual prototype. From these tests we believe we had two main takeaways.
+- First, we need to redo the button that lets you search by tags. The hamburger style icon we used just wasn't salient enough for users to understand its use.
+- Last is that a higher fidelity prototype would've alleviated multiple of the problems participants had with it.
+
 
 [Full phase III report](phaseIII/)
