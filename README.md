@@ -12,7 +12,7 @@ SleepWell is an app intended to provide users with curated relaxing videos to he
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#) - Coming soon (phase III)!
+* [Prototype](https://xd.adobe.com/view/7076724f-8b23-48fb-8311-740cd79f68a5-2525/?fullscreen&hints=off)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
