@@ -23,12 +23,14 @@ We found that a majority of participants had trouble with the first task. They e
 
 User tests run on our prototype showed us where the design was well thought out as well as areas we need to spend more time. Going forward, the layout and design can be further expanding using the conventions we’ve established as a base for the app. The biggest area in need of more attention is editing the tag system. 
 
+<p align="left">
 <img
-	src=”image.png”
-	alt=”Current implementation”
-	style=”width:130px;height:260px;”
-	hspace=”50”
+	src="image.png"
+	alt="Current implementation"
+	style="width:130px;height:260px;"
+	hspace="50"
 />
+</p>
 
 We believe a big part of what made the interaction frustrating was the lack of salience for the hamburger button. In order to fix this we suggest removing the videos since no tags are selected and adding a text that says “No tags selected, please edit tags” along with an arrow. 
 
