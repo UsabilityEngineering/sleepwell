@@ -1,6 +1,6 @@
 # SleepWell
 
-SleepWell is an app intended to provide users with curated relaxing videos to help with falling asleep. Providing a personalized minimal and efficient feed based on the user's interests seperated from the normal distractions of clickbait and exciting videos.
+SleepWell is an app intended to provide users with curated relaxing videos to help with falling asleep. Providing a personalized minimal and efficient feed based on the user's interests separated from the normal distractions of clickbait and exciting videos.
 
 ## UX Team Members
 
@@ -18,20 +18,20 @@ SleepWell is an app intended to provide users with curated relaxing videos to he
 
 **Executive Summary**
 
-Sleep Well as an app is being designed to currate relaxing videos for users that wish to listen/watch them. In this first sprint we accomplished:
+Sleep Well as an app is being designed to curate relaxing videos for users that wish to listen/watch them. In this first sprint we accomplished:
 
-- **A Competative Analysis**
-  - In this we found our main competitor to be Youtube, this finding lead to our furthur findings in the Heuristic evaluation.
+- **A Competitive Analysis**
+  - In this we found our main competitor to be Youtube, this finding led to our further findings in the Heuristic evaluation.
   - We also found that one main thing we could have over them is a more narrowed in list of videos to fulfill the users needs.
 - **A Heuristic Evaluation**
-  - In this we found that Youtube was most likely going to be overtaken by our app, but that it had certain flaws such as position of the seach bar that we could do better in our app.
+  - In this we found that Youtube was most likely going to be overtaken by our app, but that it had certain flaws such as the position of the search bar that we could do better in our app.
 - **Personas and Scenarios**
   - These **highlight what our users want** and how they would most likely achieve those goals using our app.
   - We also found during this that relaxation would probably be our main focus.
 - **Sketches**
-  - Lastly our sketches provided ideas on how to put the app together, where things belonged and why they belong there. We found that a **tags page** would be the best solution, allowing the user to choose their tags for videos to search.
+  - Lastly our sketches provided ideas on how to put the app together, where things belong and why they belong there. We found that a **tags page** would be the best solution, allowing the user to choose their tags for videos to search.
 
-Overall this first sprint gave us good direction on where to go with the app for the next ones, we got a good analysis on what the users want and need, though furthur testing with actual users will be neccessary.
+Overall this first sprint gave us good direction on where to go with the app for the next ones, we got a good analysis on what the users want and need, though further testing with actual users will be necessary.
 
 [Full phase I report](phaseI/)
 
