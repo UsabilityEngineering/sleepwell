@@ -8,6 +8,8 @@
 
 In phase 3 we focused almost entirely on our User Tests. These were used to determine how actual users would approach certain tasks in the app.
 
+[Go to prototype](https://xd.adobe.com/view/7076724f-8b23-48fb-8311-740cd79f68a5-2525/screen/5e3126f1-ad9e-487c-9f57-f36955ed03b9?fullscreen&hints=off)
+
 ### Methods
 
 The methods we used were just User Tests. These tests consisted of 5 participants, that needed to complete 3 tasks assigned to them. The tasks were to, one, find and go to a fan sounds video. Second, find and use the Timer and Autoplay features. Then last, upload a video to the app. The participants were asked to speak aloud during their thinking to allow us to hear what went through their heads. 
