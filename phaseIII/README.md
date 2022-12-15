@@ -8,7 +8,7 @@
 
 In phase 3 we focused almost entirely on our User Tests. These were used to determine how actual users would approach certain tasks in the app.
 
-[Go to prototype](https://xd.adobe.com/view/7076724f-8b23-48fb-8311-740cd79f68a5-2525/screen/5e3126f1-ad9e-487c-9f57-f36955ed03b9?fullscreen&hints=off)
+[Go to prototype](https://xd.adobe.com/view/7076724f-8b23-48fb-8311-740cd79f68a5-2525/?fullscreen&hints=off)
 
 ### Methods
 
